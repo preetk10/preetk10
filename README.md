@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [VS Code Course][website1]
 - 🌱 I’m currently learning everything in My Life!!
-- 👯 I’m looking for Peoplewho can share their knowledge
+- 👯 I’m looking for People who can share their knowledge
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can see bugs in your code but not my crush's hints.
 
